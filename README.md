@@ -3,7 +3,7 @@
 
 #post app 
 
-In this app you can post a mesaage along with or without the gif
+In this app you can post a message along with or without the gif
 
 #steps :
 1. click on the first feild and write your mesaage. 
