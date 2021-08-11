@@ -38,7 +38,7 @@ const deleteTask=(id)=>{
      { showAddTask && <AddTask onAdd={addTask}/>}
     {tasks.length > 0 ? (
       <Tasks tasks={tasks} onDelete={deleteTask} />
-    ): ('no tasks  to show')}
+    ): ('your GIF')}
  
  
     </div>  
