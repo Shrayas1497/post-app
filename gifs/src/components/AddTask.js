@@ -34,7 +34,7 @@ const AddTask =({onAdd}) =>{
     {
         e.preventDefault()
     if(!text){
-        alert('please add a task')
+        alert('please add a message')
         return 
     }
     onAdd({text,gif:gifs[0]})
